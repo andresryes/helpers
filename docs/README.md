@@ -136,7 +136,7 @@
   - `docs/tools/helpers/`
     - Small helper modules and utilities, like caching, playback, dataframes, and
       interactive grids.
-  - `docs/tools/jupyter_notebooks/`
+  - `docs/tools/notebooks/`
     - Jupyter-specific enhancements, including TOC creation, Jupytext usage, and
       markdown publishing.
   - `docs/tools/linter/`

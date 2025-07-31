@@ -1,0 +1,6 @@
+# _config.yml – used only by GitHub Pages
+plugins:
+  - jekyll-relative-links          # keeps [.md] links working on the live site
+
+relative_links:
+  enabled: true                    # default, but set it explicitly
