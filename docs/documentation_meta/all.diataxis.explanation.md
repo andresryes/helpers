@@ -45,7 +45,7 @@ There are 4 modes of documentation
 - Food analogy: a recipe for cooking lasagna
 - File suffix: `.how_to_guide.md`
 - Example:
-  [work_tools/all.pycharm.how_to_guide.md](https://github.com/cryptokaizen/cmamp/blob/master/docs/work_tools/all.pycharm.how_to_guide.md)
+  [work_tools/all.pycharm.how_to_guide.md](https://github.com/cryptokaizen/cmamp/blob/master/docs/tools/all.pycharm.how_to_guide.md)
 
 ## Reference
 

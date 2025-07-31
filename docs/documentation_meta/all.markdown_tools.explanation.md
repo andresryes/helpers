@@ -139,7 +139,7 @@
 ### MyST Markdown
 - MyST = "MarkedlY Structured Text"
 - Extensions:
-  - Directive blocks (like reST) using {% directive %} blocks
+  - Directive blocks (like reST) using ```directive``` blocks
     ```markdown
     ```{note}
     This is a note directive.
